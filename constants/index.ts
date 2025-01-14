@@ -63,6 +63,7 @@ export const navigationLinks = [
       genre: "Fantasy / Fiction",
       rating: 4.6,
       total_copies: 20,
+      // isLoanedBook:true,
       available_copies: 10,
       description:
         "A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death.",
