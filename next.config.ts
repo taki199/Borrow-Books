@@ -12,6 +12,11 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "m.media-amazon.com",
         pathname: "/**", // Allow any path under this hostname
+      },
+      {
+        protocol:"https",
+        hostname:"ik.imagekit.io",
+        port:"",
       }
     ],
   },
